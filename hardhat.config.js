@@ -8,11 +8,11 @@ module.exports = {
     hardhat: {},
     sepolia:{
       url:"https://eth-sepolia.g.alchemy.com/v2/K6SycLg403bqGvTfRLOyHD6kaXlsF3qH",
-      accounts:["4d24f1044bfb7afc0070ba71ce17f7bc9a9413165e657c4819fb79954a7c875b"]
+      accounts:[""]
     },
     amoy:{
       url:"https://polygon-amoy.g.alchemy.com/v2/K6SycLg403bqGvTfRLOyHD6kaXlsF3qH",
-      accounts:["4d24f1044bfb7afc0070ba71ce17f7bc9a9413165e657c4819fb79954a7c875b"]
+      accounts:[""]
     }
   }
 };
