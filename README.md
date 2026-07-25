@@ -27,4 +27,4 @@ The project is centered around creating an ERC721 NFT collection on the Ethereum
 6. You can then check the balance of the polygon contract to verify the transfer using the `getBalance.js` script.
 
 ## Author
-Ankit Singh (Email:`superakt2003@gmail.com`)
+Ankit Singh (Email:`aktsingh108@gmail.com`)
